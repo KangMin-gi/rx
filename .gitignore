@@ -3,4 +3,3 @@ out/
 build/
 .gradle/
 .idea_modules/
-*.md
